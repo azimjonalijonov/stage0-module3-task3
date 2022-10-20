@@ -5,6 +5,6 @@ public class DeclaringVars {
 
         int a, b, c;
         a=b=c=10;
-        System.out.println(c);//write code here
+        System.out.println(1);//write code here
     }
 }
